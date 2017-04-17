@@ -1,7 +1,7 @@
 # test coverage for  [traverse (v0.6.6)](https://github.com/substack/js-traverse)  [![npm package](https://img.shields.io/npm/v/npmtest-traverse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-traverse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-traverse.svg)](https://travis-ci.org/npmtest/node-npmtest-traverse)
 #### traverse and transform objects by visiting every node on a recursive walk
 
-[![NPM](https://nodei.co/npm/traverse.png?downloads=true)](https://www.npmjs.com/package/traverse)
+[![NPM](https://nodei.co/npm/traverse.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/traverse)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-traverse/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-traverse/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-traverse/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-traverse/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-traverse/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-traverse/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-traverse/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-traverse/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-traverse/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-traverse/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-traverse%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-traverse/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-traverse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-traverse/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-traverse/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-traverse%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traverse/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-traverse/build/test-report.html](https://npmtest.github.io/node-npmtest-traverse/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-traverse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-traverse/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-traverse/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-traverse/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-traverse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-traverse/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-traverse/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "James Halliday",
-        "email": "mail@substack.net",
         "url": "http://substack.net"
     },
     "bugs": {
@@ -61,13 +66,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "substack",
-            "email": "mail@substack.net"
+            "name": "substack"
         }
     ],
     "name": "traverse",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/substack/js-traverse.git"
