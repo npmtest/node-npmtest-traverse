@@ -1,4 +1,7 @@
-# test coverage for  [traverse (v0.6.6)](https://github.com/substack/js-traverse)  [![npm package](https://img.shields.io/npm/v/npmtest-traverse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-traverse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-traverse.svg)](https://travis-ci.org/npmtest/node-npmtest-traverse)
+# npmtest-traverse
+
+#### basic test coverage for  [traverse (v0.6.6)](https://github.com/substack/js-traverse)  [![npm package](https://img.shields.io/npm/v/npmtest-traverse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-traverse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-traverse.svg)](https://travis-ci.org/npmtest/node-npmtest-traverse)
+
 #### traverse and transform objects by visiting every node on a recursive walk
 
 [![NPM](https://nodei.co/npm/traverse.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/traverse)
@@ -103,7 +106,8 @@
             ]
         }
     },
-    "version": "0.6.6"
+    "version": "0.6.6",
+    "bin": {}
 }
 ```
 
